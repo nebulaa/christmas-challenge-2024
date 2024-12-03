@@ -73,9 +73,9 @@ Submissions will be evaluated on the following, in this exact order:
 | Design | Is the architecture thoughtful? Is it scalable and efficient? |
 
 #### The judges:
-- ClaraCrazy
-- Aurora
-- `To be announced`
+- @claracrazy
+- @aurorasmiles
+- @jmbfountain
 - `To be announced`
 - `To be announced`
 
