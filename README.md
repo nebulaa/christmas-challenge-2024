@@ -10,7 +10,7 @@ Welcome to the first Christmas Coding Challenge from CrazyCo! This year, we’re
     
   | Who?                | What?                                      | Their Link(s)                                                                           |
   |---------------------|--------------------------------------------|-----------------------------------------------------------------------------------------|
-  | CrazyCo             | Initial concept, planning, primary funding | [Discord](https://discord.gg/crazyco), [Website](https://crazyco.xyz)                   |
+  | CrazyCo `(thats us)`| Concept, planning, management, funding     | [Discord](https://discord.gg/crazyco), [Website](https://crazyco.xyz)                   |
   | SyntheticPlayground | Ad campaign / Promoting, funding           | [Discord](https://discord.gg/syntheticplayground)                                       |
   | Netdata             | Ad campaign / Promoting, funding           | [Discord](https://discord.gg/mPZ6WZKKG2), [Website](https://netdata.cloud/)             |
   | @johnhammond        | Ad campaign / Promoting                    | [Discord](https://discord.gg/mQQ5NsTbfF), [Youtube](https://youtube.com/johnhammond010) |
@@ -45,7 +45,7 @@ Your task is to build a file server with as many of the following characteristic
   Bonus points for implementing WebDAV or other file transfer protocols.
   Compatibility with Windows tools is encouraged but not mandatory.
 - Deadline:
-#### All submissions must be made by `Dec. 23rd 23:59:59PM UTC`.
+  <b>All submissions must be made by `Dec. 23rd 23:59:59PM UTC`.</b>
 <br>
 
 # ✨ Judging Criteria
