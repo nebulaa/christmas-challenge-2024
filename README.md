@@ -68,13 +68,17 @@ Submissions will be evaluated on the following, in this exact order:
 - `1-Year Subscription to Boot.dev (A comprehensive platform for backend development courses, valued at over $300)`<br>
 The ultimate resource for mastering backend development and expanding your coding skills!
 
-### Second Prize:
+### Second Place:
 - `1-Year Subscription for a Hetzner Server (up to CPX31)`<br>
-Your next plans will be running on stable, high-available servers on a trusted network, for an entire year!  
+Your next project(s) will be running on a stable, high-available server on a trusted network, for an entire year!  
 
-### Third Prize:
+### Third Place:
 - `1-Year Subscription of Github Pro`<br>
 Boost your workflow with premium developer tools and integrations directly on GitHub.
+
+### 4-5th Place (Runner ups):
+- `Undefined`<br>
+Undefined
 <br>
 
 # 🚀 Getting Started
