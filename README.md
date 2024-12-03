@@ -5,30 +5,26 @@ Welcome to the first Christmas Coding Challenge from CrazyCo! This year, we’re
 <br>
 
 # 📜 Challenge Overview
-Your task is to build a file server with the following characteristics:
+Your task is to build a file server with as many of the following characteristics as you manage:
 
-- File management: The server should support basic file storage and retrieval.
-- Encryption: Include functionality to encrypt and decrypt files during storage or transfer.
-- User registration and separation: Allow user registration and implement file separation between users.
-- Protocol support (optional bonus):
-- Support WebDAV for file management.
-- Add compatibility with Windows-native tools.
-- Authentication:
+- [ ] File management: The server should support basic file storage and retrieval.
+- [ ] User registration and separation: Allow user registration and implement file separation between users.
+- [ ] Encryption: Include functionality to encrypt and decrypt files during storage or transfer.
+- [ ] Protocol support (optional bonus):
+  - Support WebDAV for file management.
+- [ ] Add compatibility with Windows-native tools.
+- [ ] Authentication:
   - Provide options for authenticated and auth-less access modes.
-  - The file server should be implemented as a web application that runs on Linux.
-<br>
-
-# 🏆 Prizes
-Grand Prize: 1-Year Subscription to Boot.dev (a comprehensive platform for backend development courses).
-Bragging Rights: Showcase your project on our platform and get featured in our community!
+- [ ] The file server should be implemented as a web application that runs on Linux.
 <br>
 
 # 🛠 Rules and Requirements
 - Project Scale:
   The challenge is designed to take 5–7 full working days. Focus on a small-to-medium scope project.
 - Submission:
-  Fork this repository and submit your solution as a pull request.
+  Fork this repository and submit your work as a pull request.
   Include a detailed README in your project folder explaining your approach, setup instructions, and any assumptions made.
+  Best code will get their PR accepted, and be proudly displayed here.
 - Code Standards:
   The project must be your original work.
   Use python, js, rust or go, and try to keep dependancies minimal.
@@ -55,7 +51,7 @@ Submissions will be evaluated on the following, in this exact order:
 
 # 🏆 Prizes
 ### Grand Prize:
-- 1-Year Subscription to Boot.dev (valued at over $300)
+- 1-Year Subscription to Boot.dev (A comprehensive platform for backend development courses, valued at over $300)
 The ultimate resource for mastering backend development and expanding your coding skills!
 
 ### Second Prize:
