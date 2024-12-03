@@ -31,14 +31,17 @@ Your task is to build a file server with as many of the following characteristic
 <br>
 
 # 🛠 Rules and Requirements
+- Teams:
+  This challenge is designed for single devs. Duos will be allowed but will be rated accordingly to keep it fair. If we find more than two contributors towards code (If they fix your readme typos, whatever), then we will disqualify you
 - Project Scale:
-  The challenge is designed to take 5–7 full working days. Focus on a small-to-medium scope project.
+  The challenge is designed to exhaust full working days where possible. Focus on a small-to-medium scope for the project.
 - Submission:
   Fork this repository and submit your work as a pull request.
   Include a detailed README in your project folder explaining your approach, setup instructions, and any assumptions made.
   Best code will get their PR accepted, and be proudly displayed here.
 - Code Standards:
   The project must be your original work.
+  Do NOT use excessive AI. Its okay if you let it write some small helper function, We would to. But keep it minimal, we will run some checks. 
   Use python, js, rust or go, and try to keep dependencies minimal.
   Ensure your code is well-documented and follows best practices.
 - Supported Protocols:
@@ -46,6 +49,15 @@ Your task is to build a file server with as many of the following characteristic
   Compatibility with Windows tools is encouraged but not mandatory.
 - Deadline:
   <b>All submissions must be made by `Dec. 23rd 23:59:59PM UTC`.</b>
+<br>
+
+# 🛡️ Disqualification grounds:
+There are of course ways to get disqualified, lets get through them
+- Working as a >2 person team. Once again, this is designed for individuals or duos at best, else it would be too simple.
+- Stealing / skidding code, or any other wording thereof. We want to see *your* code, not someone that elses.
+- Submitting after the deadline. Even a second, if the date says 24th (UTC), you're out. Be on time.
+- Trying to find loopholes in the rules.
+- `More will be added if needed`
 <br>
 
 # ✨ Judging Criteria
