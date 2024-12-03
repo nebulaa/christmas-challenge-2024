@@ -79,7 +79,7 @@ Submissions will be evaluated on the following, in this exact order:
 - `To be announced`
 - `To be announced`
 
- <sub>By the way, <b>we know</b> that 12 days for all of this is barely any time, especially during the holiday season etc. <b>This is on purpose</b>! We want to see your ability to prioritize and see how you handle time constraints. We are the unreasonable Manager you have to satisfy, but dont worry, we wont deduct points for missing things, you start at 0 and the only way is up!</sub>
+ <sub>By the way, <b>we know</b> that 12 days for all of this is barely any time, especially during the holiday season etc. <b>This is on purpose</b>! We want to see your ability to prioritize and see how you handle time constraints. We are the unreasonable Manager you have to satisfy, but dont worry, we wont deduct points for missing things, you start at 0 and the only way is up!</sub><br>
 <br>
 
 # 🏆 Prizes
