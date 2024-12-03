@@ -14,7 +14,7 @@ Welcome to the first Christmas Coding Challenge from CrazyCo! This year, we’re
   | SyntheticPlayground | Ad campaign / Promoting, funding           | [Discord](https://discord.gg/syntheticplayground)                                       |
   | Netdata             | Ad campaign / Promoting, funding           | [Discord](https://discord.gg/mPZ6WZKKG2), [Website](https://netdata.cloud/)             |
   | @johnhammond        | Ad campaign / Promoting                    | [Discord](https://discord.gg/mQQ5NsTbfF), [Youtube](https://youtube.com/johnhammond010) |
-  | @ericparker         | Ad campaign / Promoting                    | [Discord](https://discord.gg/ericparker), [Youtube](https://youtube.com/@ericparker)    | 
+  | @ericparker         | Ad campaign / Promoting                    | [Discord](https://discord.gg/ericparker), [Youtube](https://youtube.com/@ericparker)    |
   | @xmasterx           | Ad campaign / Promoting                    | [Discord](https://discord.gg/HmY4xSw7Zt), [Github](https://github.com/xmasterx)         |
   #### Note: Some of these are not yet fully locked in
 </details>
@@ -60,7 +60,7 @@ Submissions will be evaluated on the following, in this exact order:
 | Innovation | Bonus points for creativity and implementing optional features like WebDAV. |
 | Design | Is the architecture thoughtful? Is it scalable and efficient? |
 > [!CAUTION]
-> I will try to break your security, probably. Keep that in mind
+> We will try to break your application towards the end of the test
 <br>
 
 # 🏆 Prizes
