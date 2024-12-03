@@ -60,8 +60,10 @@ Submissions will be evaluated on the following, in this exact order:
 | Code Quality | Is the code clean, maintainable, and well-documented? |
 | Innovation | Bonus points for creativity and implementing optional features like WebDAV. |
 | Design | Is the architecture thoughtful? Is it scalable and efficient? |
-> [!CAUTION]
-> We will try to break your application towards the end of the test
+
+#### The judges:
+The judges are currently being selected, please stand by.
+
 <br>
 
 # 🏆 Prizes
