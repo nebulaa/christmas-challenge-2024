@@ -12,8 +12,8 @@ Welcome to the first Christmas Coding Challenge hosted by CrazyCo! This year, we
   |---------------------|--------------------------------------------|-----------------------------------------------------------------------------------------|
   | CrazyCo `(thats us)`| Concept, planning, management, funding     | [Discord](https://discord.gg/crazyco), [Website](https://crazyco.xyz)                   |
   | SyntheticPlayground | Ad campaign / Promoting, funding           | [Discord](https://discord.gg/syntheticplayground)                                       |
-  | Netdata             | Ad campaign / Promoting, funding           | [Discord](https://discord.gg/mPZ6WZKKG2), [Website](https://netdata.cloud/)             |
-  | @johnhammond        | Ad campaign / Promoting                    | [Discord](https://discord.gg/mQQ5NsTbfF), [Youtube](https://youtube.com/johnhammond010) |
+  | Netdata?          | Ad campaign / Promoting, funding           | [Discord](https://discord.gg/mPZ6WZKKG2), [Website](https://netdata.cloud/)             |
+  | @johnhammond?       | Ad campaign / Promoting                    | [Discord](https://discord.gg/mQQ5NsTbfF), [Youtube](https://youtube.com/johnhammond010) |
   | @ericparker         | Ad campaign / Promoting                    | [Discord](https://discord.gg/ericparker), [Youtube](https://youtube.com/@ericparker)    |
   | @xmasterx           | Ad campaign / Promoting                    | [Discord](https://discord.gg/HmY4xSw7Zt), [Github](https://github.com/xmasterx)         |
   #### Note: Some of these are not yet fully locked in
