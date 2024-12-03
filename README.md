@@ -41,7 +41,7 @@ Your task is to build a file server with as many of the following characteristic
   Best code will get their PR accepted, and be proudly displayed here.
 - Code Standards:
   The project must be your original work.
-  Do NOT use excessive AI. Its okay if you let it write some small helper function, We would to. But keep it minimal, we will run some checks. 
+  Do NOT use excessive AI. Its okay if you let it write some small helper function, we would too. But keep it minimal, we will run some checks. 
   Use python, js, rust or go, and try to keep dependencies minimal.
   Ensure your code is well-documented and follows best practices.
 - Supported Protocols:
