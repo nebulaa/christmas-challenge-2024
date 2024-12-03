@@ -38,7 +38,6 @@ Bragging Rights: Showcase your project on our platform and get featured in our c
   Compatibility with Windows tools is encouraged but not mandatory.
 - Deadline:
 All submissions must be made by Dec. 23rd 23:59:59PM utc.
-
 <br>
 
 # ✨ Judging Criteria
@@ -60,12 +59,13 @@ Submissions will be evaluated on the following, in this exact order:
 The ultimate resource for mastering backend development and expanding your coding skills!
 
 ### Second Prize:
-- $100 Gift Card to JetBrains
-Access powerful developer tools like IntelliJ IDEA, PyCharm, or WebStorm to take your projects to the next level.
+- $100 Gift Card to 
+Supercharge your new business or project idea with a new virtual private server, paid for by us for an entire year! 
 
 ### Third Prize:
 - 1 year of Github Pro
 Boost your workflow with premium developer tools and integrations directly on GitHub.
+<br>
 
 # 🚀 Getting Started
 - Fork this repo to get started.
