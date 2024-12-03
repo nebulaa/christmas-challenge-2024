@@ -45,7 +45,8 @@ Your task is to build a file server with as many of the following characteristic
   Bonus points for implementing WebDAV or other file transfer protocols.
   Compatibility with Windows tools is encouraged but not mandatory.
 - Deadline:
-  <b>All submissions must be made by `Dec. 23rd 23:59:59PM UTC`.</b>
+  <b>All submissions must be made by `Dec. 23rd 23:59:59PM UTC`.</b><br>
+  <sub>Btw, <b>we know</b> that 12 days for this is a rough time, especially during the holiday season etc. <b>This is on purpose</b>! We want to see your ability to prioritize and see how you handle time constraints.</sub>
 <br>
 
 # ✨ Judging Criteria
