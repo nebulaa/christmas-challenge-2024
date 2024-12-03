@@ -105,6 +105,6 @@ The holidays are a time for creativity, growth, and giving back. What better way
 <br>
 
 # 💬 Questions?
-Feel free to open an issue in this repo or reach out to us on [discord](discord.gg/crazyco). We’re excited to see your creative solutions!
+Feel free to use the discussion tab on this repo or reach out to us on [discord](discord.gg/crazyco). We’re excited to see your creative solutions!
 
 Good luck, and may the best coder win! 🎄✨
