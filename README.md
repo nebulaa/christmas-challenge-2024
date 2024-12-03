@@ -55,8 +55,7 @@ Submissions will be evaluated on the following, in this exact order:
 The ultimate resource for mastering backend development and expanding your coding skills!
 
 ### Second Prize:
-- $100 Gift Card to 
-Supercharge your new business or project idea with a new virtual private server, paid for by us for an entire year! 
+- To Be Announced
 
 ### Third Prize:
 - 1 year of Github Pro
