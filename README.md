@@ -54,7 +54,7 @@ Your task is to build a file server with as many of the following characteristic
 # 🛡️ Disqualification grounds:
 There are of course ways to get disqualified, lets get through them
 - Working as a >2 person team. Once again, this is designed for individuals or duos at best, else it would be too simple.
-- Stealing / skidding code, or any other wording thereof. We want to see *your* code, not someone that elses.
+- Stealing / skidding code, or any other wording thereof. We want to see *your* code, not someone elses.
 - Submitting after the deadline. Even a second, if the date says 24th (UTC), you're out. Be on time.
 - Trying to find loopholes in the rules.
 - `More will be added if needed`
