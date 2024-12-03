@@ -27,7 +27,7 @@ Your task is to build a file server with as many of the following characteristic
   Best code will get their PR accepted, and be proudly displayed here.
 - Code Standards:
   The project must be your original work.
-  Use python, js, rust or go, and try to keep dependancies minimal.
+  Use python, js, rust or go, and try to keep dependencies minimal.
   Ensure your code is well-documented and follows best practices.
 - Supported Protocols:
   Bonus points for implementing WebDAV or other file transfer protocols.
