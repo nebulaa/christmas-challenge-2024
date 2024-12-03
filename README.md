@@ -7,7 +7,7 @@ Welcome to the first Christmas Coding Challenge from CrazyCo! This year, we’re
 <details open>
   <summary><b>:heart: Sponsors:</b></summary>
   This project would not be possible without some Sponsors, and people that promote the event:
-  
+    
   | Who?                | What?                                      | Their Link(s)                                                                           |
   |---------------------|--------------------------------------------|-----------------------------------------------------------------------------------------|
   | CrazyCo             | Initial concept, planning, primary funding | [Discord](https://discord.gg/crazyco), [Website](https://crazyco.xyz)                   |
@@ -16,6 +16,7 @@ Welcome to the first Christmas Coding Challenge from CrazyCo! This year, we’re
   | @johnhammond        | Ad campaign / Promoting                    | [Discord](https://discord.gg/mQQ5NsTbfF), [Youtube](https://youtube.com/johnhammond010) |
   | @ericparker         | Ad campaign / Promoting                    | [Discord](https://discord.gg/ericparker), [Youtube](https://youtube.com/@ericparker)    | 
   | @xmasterx           | Ad campaign / Promoting                    | [Discord](https://discord.gg/HmY4xSw7Zt), [Github](https://github.com/xmasterx)         |
+  #### Note: Some of these are not yet fully locked in
 </details>
 <br>
 
