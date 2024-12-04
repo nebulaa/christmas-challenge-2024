@@ -65,7 +65,7 @@ Submissions will be evaluated on the following, in this exact order:
 |---------------|-----------------------------------------------------------------------------------------------------|
 | Functionality |	Does the server meet the required functionality? Are all features working?                          |
 | Performance   |	How well does the server perform under typical use cases?                                           |
-| Dependancies  |	How many godforsaken libraries do I have to be concerned about having vulnerabilities I cant patch? |
+| Dependancies  |	How many godforsaken libraries do we have to be concerned about having vulnerabilities we cant patch? |
 | Code Quality  | Is the code clean, maintainable, and well-documented?                                               |
 | Innovation    | Bonus points for creativity and implementing optional features like WebDAV.                         |
 | Design        | Is the architecture thoughtful? Is it scalable and efficient?                                       |
