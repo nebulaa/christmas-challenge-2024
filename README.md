@@ -26,7 +26,7 @@ Your task is to build a file server with as many of the following characteristic
 - [ ] Authentication:
   - Provide options for protected and auth-less files
 - [ ] The file server should be accessible via a web application that runs on a Linux Server
-<br><sub>(Latest stable version of Debian, Fedora or Ubuntu. Please specify in your submission)</sub><br>
+<br><sub><sub>(Latest stable version of Debian, Fedora or Ubuntu. Please specify in your submission)</sub></sub><br>
 <br>
 
 # 🛠 Rules and Requirements:
