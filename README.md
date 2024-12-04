@@ -25,7 +25,7 @@ Your task is to build a file server with as many of the following characteristic
 - [ ] Add compatibility with Windows-native tools
 - [ ] Authentication:
   - Provide options for protected and auth-less files
-- [ ] The file server should be accessible via a web application that runs on a Linux Server (Latest stable version of Debian or Ubuntu)
+- [ ] The file server should be accessible via a web application that runs on a Linux Server (Latest stable version of Debian, Fedora or Ubuntu. Please specify in your submission)
 <br>
 
 # 🛠 Rules and Requirements:
