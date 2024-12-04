@@ -45,7 +45,7 @@ Your task is to build a file server with as many of the following characteristic
   - Compatibility with Windows tools is encouraged but not mandatory.
 
 - Submission:
-  - Fork this repository and submit your work as a pull request <b>after renaming the branch to your USERNAME</b>. This way we can accept all valid PRs after the time is up, so future users can browse submissions.
+  - Fork this repository and submit your work as a pull request. We wont judge any work submitted before the deadline. Dont worry, you can keep pushing fixes until the last second.
   - Include a detailed README in your project folder explaining your approach, setup instructions, and any assumptions made.
   - We will contact the winner(s) either through github PR messages, or on Discord, whichever happens to work out for you.
 
