@@ -88,18 +88,24 @@ Submissions will be evaluated on the following, in this exact order:
 ### Grand Prize:
 - `1-Year Subscription to Boot.dev (A comprehensive platform for backend development courses, valued at over $300)`<br>
 The ultimate resource for mastering backend development and expanding your coding skills!
+- `1-Year Subscription to netdata.cloud (120 Nodes) (Your #1 Server Monitoring Suite)`<br>
+Feel the pulse of your infrastructure, with high-resolution metrics, journal logs and real-time visualizations.
 
 ### Second Place:
 - `1-Year Subscription for a Hetzner Server (up to CPX31)`<br>
 Your next project(s) will be running on a stable, highly available server on a trusted network for an entire year! 
+- `1-Year Subscription to netdata.cloud (90 Nodes) (Your #1 Server Monitoring Suite)`<br>
+Feel the pulse of your infrastructure, with high-resolution metrics, journal logs and real-time visualizations.
 
 ### Third Place:
 - `1-Year Subscription of Github Pro`<br>
 Boost your workflow with premium developer tools and integrations directly on GitHub.
+- `1-Year Subscription to netdata.cloud (45 Nodes) (Your #1 Server Monitoring Suite)`<br>
+Feel the pulse of your infrastructure, with high-resolution metrics, journal logs and real-time visualizations.
 
 ### 4th-5th Place (Runners-up):
-- `To be announced`<br>
-To be announced
+- `1-Year Subscription to netdata.cloud (Your #1 Server Monitoring Suite)` <b>(4th place: 30 Nodes, 5th place: 15 nodes)</b><br>
+Feel the pulse of your infrastructure, with high-resolution metrics, journal logs and real-time visualizations.
 <br>
 
 # 🚀 Getting Started:
