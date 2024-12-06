@@ -70,7 +70,7 @@ Submissions will be evaluated on the following, in this exact order:
 | Performance   | How well does the server perform under typical use cases?                                              |
 | Dependancies  | How many godforsaken libraries do we have to be concerned about having vulnerabilities we can't patch? |
 | Code Quality  | Is the code clean, maintainable, and well-documented?                                                  |
-| Innovation    | Bonus points for creativity and implementing optional features like WebDAV.                            |
+| Innovation    | Bonus points for creativity and implementing optional features like WebDAV.                            |
 | Design        | Is the architecture thoughtful? Is it scalable and efficient?                                          |
 
 <sub>By the way, <b>we know</b> that 18 days for all of this is not a lot, especially during the holiday season, etc. <b>This is on purpose</b>! We want to see your ability to prioritize and see how you handle time constraints. We are the unreasonable manager you have to satisfy, but don't worry; we won't deduct points for missing things. You start at 0, and the only way is up!</sub><br>
