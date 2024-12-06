@@ -15,7 +15,6 @@ This project would not be possible without some sponsors and people that promote
 | @johnhammond        | Promoting                                  | [Discord](https://discord.gg/mQQ5NsTbfF), [Youtube](https://youtube.com/johnhammond010) |
 | @ericparker         | Promoting                                  | [Discord](https://discord.gg/ericparker), [Youtube](https://youtube.com/@ericparker)    |
 | @xmasterx           | Promoting                                  | [Discord](https://discord.gg/HmY4xSw7Zt), [Github](https://github.com/xmasterx)         |
-#### Note: Some of these are not yet fully locked in to their positions.
 <br>
 
 # 📜 Challenge Overview:
