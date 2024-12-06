@@ -112,7 +112,8 @@ Feel the pulse of your infrastructure, with high-resolution metrics, journal log
 - Set up your development environment on Linux.
 - Code up the required file server with features outlined in the Challenge Overview.
 - Test your implementation thoroughly.
-- Submit your solution as a pull request.
+- Submit your solution as a pull request.<br>
+<sub>All valid PRs will be accepted into their own branch once the contest concludes</sub><br>
 <br>
 
 # 🐾 Optional Bonus Features:
