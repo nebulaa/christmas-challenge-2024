@@ -1,5 +1,5 @@
 # 🎄 Christmas Coding Challenge 🎄
-Welcome to the first Christmas Coding Challenge hosted by CrazyCo! This year, we’re challenging you to create a file server with a key part being your backend, exciting features, functionality, and an emphasis on security and code quality. 
+Welcome to the first Christmas Coding Challenge hosted by CrazyCo! This year, we’re challenging you to create a file server with a key part being your backend, exciting features, functionality, and an emphasis on code quality. 
 
 ### The 1st prize is a 1-year subscription to [Boot.dev](https://boot.dev/). 
 <br>
@@ -20,7 +20,7 @@ This project would not be possible without some sponsors and people that promote
 # 📜 Challenge Overview:
 Your task is to build a file server with as many of the following characteristics as you can manage:
 - [ ] File management: The server should support basic file storage and retrieval.
-- [ ] Authentication: Provide options for protected and auth-less files
+- [ ] Authentication: Provide options for protected and unprotected files
 - [ ] Encryption: Include functionality to encrypt and decrypt files during storage or transfer
 - [ ] Access: The file server should be accessible via a web application that runs on a Linux server.
 <br><sub><sub>(Latest stable version of Debian, Fedora, or Ubuntu. Please specify in your submission.)</sub></sub><br>
