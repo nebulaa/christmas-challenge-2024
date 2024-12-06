@@ -1,5 +1,5 @@
 # 🎄 Christmas Coding Challenge 🎄
-Welcome to the first Christmas Coding Challenge hosted by CrazyCo! This year, we’re challenging you to create a backend-focused file server with exciting features, functionality, and an emphasis on security and code quality. 
+Welcome to the first Christmas Coding Challenge hosted by CrazyCo! This year, we’re challenging you to create a file server with a key part being your backend, exciting features, functionality, and an emphasis on security and code quality. 
 
 ### The 1st prize is a 1-year subscription to [Boot.dev](https://boot.dev/). 
 <br>
