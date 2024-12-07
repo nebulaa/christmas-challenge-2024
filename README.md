@@ -79,8 +79,6 @@ Submissions will be evaluated on the following, in this exact order:
 - @claracrazy
 - @aurorasmiles
 - @jmbfountain
-- `To be announced`
-- `To be announced`
 <br>
 
 # 🏆 Prizes:
