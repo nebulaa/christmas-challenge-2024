@@ -10,6 +10,7 @@ This project would not be possible without some sponsors and people that promote
 | Who?                | What?                                      | Their Link(s)                                                                           |
 |---------------------|--------------------------------------------|-----------------------------------------------------------------------------------------|
 | CrazyCo `(us)`      | Concept, planning, management, funding     | [Discord](https://discord.gg/crazyco), [Website](https://crazyco.xyz)                   |
+| Boot.dev            | Promoting, Funding                         | [Discord](https://discord.gg/bootdotdev), [Website](https://boot.dev/)                  |
 | SyntheticPlayground | Promoting, funding                         | [Discord](https://discord.gg/syntheticplayground)                                       |
 | Netdata             | Promoting, funding                         | [Discord](https://discord.gg/mPZ6WZKKG2), [Website](https://netdata.cloud/)             |
 | @johnhammond        | Promoting                                  | [Discord](https://discord.gg/mQQ5NsTbfF), [Youtube](https://youtube.com/johnhammond010) |
