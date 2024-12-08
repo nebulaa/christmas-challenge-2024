@@ -78,7 +78,7 @@ Submissions will be evaluated on the following, in this exact order:
 #### The judges:
 - @claracrazy
 - @aurorasmiles
-- @jmbfountain
+- @jmbit
 <br>
 
 # 🏆 Prizes:
@@ -93,12 +93,16 @@ Feel the pulse of your infrastructure, with high-resolution metrics, journal log
 Your next project(s) will be running on a stable, highly available server on a trusted network for an entire year! 
 - `1-Year Subscription to netdata.cloud (90 Nodes) (Your #1 Server Monitoring Suite)`<br>
 Feel the pulse of your infrastructure, with high-resolution metrics, journal logs and real-time visualizations.
+- `1-Month Subscription to Boot.dev (A comprehensive platform for backend development courses, valued at over $300)`<br>
+The ultimate resource for mastering backend development and expanding your coding skills!
 
 ### Third Place:
 - `1-Year Subscription of Github Pro`<br>
 Boost your workflow with premium developer tools and integrations directly on GitHub.
 - `1-Year Subscription to netdata.cloud (45 Nodes) (Your #1 Server Monitoring Suite)`<br>
 Feel the pulse of your infrastructure, with high-resolution metrics, journal logs and real-time visualizations.
+- `1-Month Subscription to Boot.dev (A comprehensive platform for backend development courses, valued at over $300)`<br>
+The ultimate resource for mastering backend development and expanding your coding skills!
 
 ### Honorable Mentions (2):<br><sub>For people that have created something unique that peaked out interest, yet did not make the podium.</sub>
 - `1-Year Subscription to netdata.cloud (Your #1 Server Monitoring Suite)` <b>(30 Nodes & 15 nodes)</b><br>
