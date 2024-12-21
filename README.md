@@ -32,7 +32,9 @@ A default self-signed SSL certificate is used for HTTPS support (data encryption
 
 The private files are encrypted by using the Fernet symmetric encryption algorithm.
 
-## Using shell scripts to build and run the Docker image and Docker container (Recommended)
+# Installation
+
+## 1.Using shell scripts to build and run the Docker image and Docker container (Recommended)
 
 Ensure that Docker is installed and running on your system.
 
@@ -64,7 +66,7 @@ Delete the Docker image:
 ./delete_image.sh
 ```
 
-## To run the Streamlit app locally in a virtual environment - Alternative to Docker
+## 2. To run the Streamlit app locally in a virtual environment - Alternative to Docker
 
 Follow the below steps:
 
