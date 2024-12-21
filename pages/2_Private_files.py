@@ -38,7 +38,7 @@ def add_file_key(file_name, key):
 uploads_dir = "private_uploads"
 os.makedirs(uploads_dir, exist_ok=True)
 
-user_file_passkey = st.text_input("Enter a password for the file", max_chars=10)
+user_file_passkey = st.text_input("Enter a password to secure your new file upload", max_chars=10)
 if user_file_passkey:
     uploaded_file = st.file_uploader("Upload a file")
     with st.spinner("Uploading file..."):
@@ -56,6 +56,6 @@ if user_file_passkey:
                     st.error("File not saved. Please try again.")
                 st.success("File key added successfully. Encrypted file saved.")
             else:
-                st.error("Unsupported file extension. Please upload a file with a valid extension.")
+                st.error("Unsupported file extension. Please upload a different file.")
 
 

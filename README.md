@@ -8,21 +8,29 @@ Public files are uploaded to the `uploads` directory, and private files are encr
 
 Public files can be uploaded and downloaded by anyone anonymously.
 
-Previews of public files are also available.
+Preview of public files is also available.
+```
 Supported file formats for preview:
 Image files: jpg, jpeg, png, gif, bmp, tiff, webp
 Audio files: mp3, wav, ogg, flac
 Video files: mp4, avi, mov, wmv, mkv, webm
 Text files: txt, json, csv, xml, html
 Other files: pdf, md
+```
 
 Private files can only be uploaded by authenticated users. The file is uploaded along with a user-defined passkey.
 
-Authenticated users can download the private files by choosing the file name and entering the passkey.
+Authenticated users can download the private files by choosing the file name and entering the passkey. Upon entering the correct passkey, the file is decrypted and available for download.
 
 The `sqldb.db` file is used to store the passkey for private files. This is a SQLite database.
 
 The `filekey.key` file is used to store the encryption key for private files is encrypted and stored in the `private_key` directory.
+
+The application performs some basic validation checks on the file uploads, such as file type and file name length.
+
+A default self-signed SSL certificate is used for HTTPS support (data encryption in transit).
+
+The private files are encrypted by using the Fernet symmetric encryption algorithm.
 
 ## Using shell scripts to build and run the Docker image and Docker container (Recommended)
 
@@ -81,12 +89,16 @@ To change the default credentials, please modify the `.streamlit/secrets.toml` f
 
 ### SSL Certificate
 
-In a development environment, we can use a self-signed SSL certificate for HTTPS support.
+In a development environment, we can use a self-signed SSL certificate for HTTPS support. 
 
-To generate a new self-signed SSL certificate, you can use the following command:
+Note: This will generate a warning in the browser console.
+
+To remove the existing self-signed SSL certificate and generate a new self-signed SSL certificate, you can use the following commands:
 
 ```bash
 cd .streamlit
+rm -f privkey.pem
+rm -f fullchain.pem
 openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout privkey.pem -out fullchain.pem -subj "/CN=localhost"
 ```
 
