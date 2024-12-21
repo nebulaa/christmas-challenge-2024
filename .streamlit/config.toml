@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+
+[server]
+sslCertFile = '.streamlit/fullchain.pem'
+sslKeyFile = '.streamlit/privkey.pem'
+
+enableStaticServing = true

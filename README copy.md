@@ -1,4 +1,4 @@
-# 🎄 Christmas Coding Challenge 🎄
+# Web Server Coding Challenge
 
 ## Architecture
 

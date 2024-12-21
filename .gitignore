@@ -1,0 +1,9 @@
+server
+*.pyc
+venv
+uploads
+filekey.key
+temp
+public_uploads
+private_uploads
+private_key
