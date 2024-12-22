@@ -91,7 +91,7 @@ To change the default credentials, please modify the `.streamlit/secrets.toml` f
 
 In a development environment, we can use a self-signed SSL certificate for HTTPS support. 
 
-Note: This will generate a warning in the browser console.
+Note: This will generate a warning in the browser.
 
 To remove the existing self-signed SSL certificate and generate a new self-signed SSL certificate, you can use the following commands:
 
@@ -103,15 +103,17 @@ openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout privkey.pem -out ful
 ```
 
 In a production environment, we should use a valid SSL certificate for HTTPS support.
-The use of a reverse proxy like Nginx or application gateways like AWS ALB or Azure Application Gateway can be used to terminate SSL connections.
+Alternatively, a reverse proxy like Nginx or cloud-based solutions like AWS Application Load Balancer (ALB) or Azure Application Gateway can be used to terminate SSL connections.
 
 ## TO-DO
 
-In production, the following features should be implemented:
+- The SQLite database can be stored in a secure location where the data will be encrypted at rest.
 
-- The database data will be stored in a secure location and the data will be encrypted at rest.
+- The fernet key could be stored securely in a cloud solution like AWS Key Management Service (AWS KMS) or Azure Key Vault and retrieved at runtime using API calls.
 
-- The fernet key would be stored securely like AWS Key Management Service (AWS KMS) or Azure Key Vault and retrieved from the key vault at runtime using API calls.
+- Improve authentication and authorization mechanisms. Add support to allow users to create and manage their own accounts.
+
+- Allow users to delete their own files.
 
 ## Preview Images
 
