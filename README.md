@@ -115,3 +115,15 @@ In production, the following features should be implemented:
 
 - The fernet key would be stored securely like AWS KMS or Azure Key Vault and retrieved from the key vault at runtime using API calls.
 
+## Preview Images
+
+### Preview of the application
+
+Public file uploads:
+![image1](images/image.png)
+
+Public file previews and download:
+![image2](images/image2.png)
+
+Authentication page:
+![image3](images/image3.png)
