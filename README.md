@@ -24,13 +24,11 @@ Authenticated users can download the private files by choosing the file name and
 
 The `sqldb.db` file is used to store the passkey for private files. This is a SQLite database.
 
-The `filekey.key` file is used to store the encryption key for private files is encrypted and stored in the `private_key` directory.
+The `fernet.key` file is generated at runtime and it is used to encrypt and decrypt the files in the `private_uploads` directory. This is based on the python implementation of Fernet symmetric encryption algorithm.
 
-The application performs some basic validation checks on the file uploads, such as file type and file name length.
+The application performs some basic validation checks upon file upload, such as file type and filename.
 
 A default self-signed SSL certificate is used for HTTPS support (data encryption in transit).
-
-The private files are encrypted by using the Fernet symmetric encryption algorithm.
 
 # Installation
 
@@ -113,7 +111,7 @@ In production, the following features should be implemented:
 
 - The database data will be stored in a secure location and the data will be encrypted at rest.
 
-- The fernet key would be stored securely like AWS KMS or Azure Key Vault and retrieved from the key vault at runtime using API calls.
+- The fernet key would be stored securely like AWS Key Management Service (AWS KMS) or Azure Key Vault and retrieved from the key vault at runtime using API calls.
 
 ## Preview Images
 
